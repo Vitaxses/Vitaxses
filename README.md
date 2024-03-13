@@ -1,7 +1,6 @@
-- 👋 Hi, I’m @Vitaxses
-- 👀 I’m interested in minecraft coding.. (not anymore)
-- 🌱 I’m currently learning c# and java..
-- 📫 How to reach me: is not possible right know..
+- I have expirience in The Unity-Engine!
+- I’m currently learning modding
+- 
 
 <!---
 Vitaxses/Vitaxses is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
