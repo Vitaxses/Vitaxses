@@ -1,3 +1,3 @@
-- I have expirience in The Unity-Engine!
+- I have experience in The Unity-Engine!
 - I’m currently modding Among Us
 - You can contact me on Discord: Vitaxses!
