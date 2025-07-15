@@ -1,3 +1,3 @@
 - I have experience in The Unity-Engine!
-- I’m currently modding Among Us
+- I’m currently modding Hollow Knight, Among Us & R.E.P.O
 - You can contact me on Discord: Vitaxses!
